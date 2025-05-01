@@ -1,18 +1,12 @@
-## Html for Now.gg
+## Htmls-for-Unbl0cked-Sites
 
-This repository contains HTML code snippets and templates specifically designed for building interfaces and experiences within the Now.gg platform.
+This repository contains HTML files designed to bypass restrictions and access blocked websites. 
 
-**What's Inside:**
+**Disclaimer:**
 
-- **[Folder Name]:** This folder houses HTML files containing various components and examples.
-    - **Example 1.html:** A basic HTML structure for a simple Now.gg interface.
-    - **Form Example.html:** A template for creating interactive forms within Now.gg.
-    - **Game Lobby.html:** A more complex example showcasing a game lobby layout.
+* **Ethical Use Only:** This repository is intended for educational purposes and testing restricted access. Using it for malicious or illegal activities is strictly prohibited.
+* **No Guarantees:** These HTML files may not work on all unblocked websites or with all unrestrictied games. 
 
-- **README.md:** This file (you're reading it!) provides information about the repository and its contents.
+**Contributions:**
 
-**Requirements:**
-
-- A basic understanding of HTML and web development concepts.
-- A Now.gg account.
-
+Contributions to this repository are welcome! If you find new techniques or have HTML files
